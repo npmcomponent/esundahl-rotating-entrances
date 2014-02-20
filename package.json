@@ -1,0 +1,14 @@
+{
+  "name": "esundahl-rotating-entrances",
+  "description": "rotating entrance animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-rotate-in": "git://github.com/npmcomponent/esundahl-rotate-in.git",
+    "esundahl-rotate-in-down-left": "git://github.com/npmcomponent/esundahl-rotate-in-down-left.git",
+    "esundahl-rotate-in-down-right": "git://github.com/npmcomponent/esundahl-rotate-in-down-right.git",
+    "esundahl-rotate-in-up-left": "git://github.com/npmcomponent/esundahl-rotate-in-up-left.git",
+    "esundahl-rotate-in-up-right": "git://github.com/npmcomponent/esundahl-rotate-in-up-right.git"
+  },
+  "license": "MIT"
+}
